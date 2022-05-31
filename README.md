@@ -76,7 +76,7 @@ $ git clone https://github.com/alex-dev2015/spread-contador
 # Entre na pasta
 $ cd spread-contador
 
-
+```
 ## :memo: Licença ##
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
